@@ -10,10 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "base64url": "^3.0.1",
-    "base64url-xplatform": "^1.1.2",
     "crypto": "^1.0.1",
     "express": "^4.17.1",
-    "request": "^2.88.2",
-    "request-it-client": "^1.4.1"
+    "request": "^2.88.2"
   }
 }
